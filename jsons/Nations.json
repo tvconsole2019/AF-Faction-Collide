@@ -86,4 +86,91 @@
 			}
 		]
 	}
+	/*{
+		"name": "Technopoly Corporation",
+		"leaderName": "Board Director",
+		"adjective": ["Techno Corp"],
+		"startBias": ["Tundra"],
+		"personality": "Centralized Researcher",
+		"preferredVictoryType":"Scientific",
+
+		"startIntroPart1": ".",
+		"startIntroPart2": ". Can you build a colony that stands the test of time?",
+
+		"declaringWar": ".",
+		"attacked": ".",
+		"defeated": ".",
+		"introduction": ".",
+
+		"neutralHello": ".",
+		"hateHello": ".",
+
+		"denounced": ".",
+		"declaringFriendship": ".",
+		"tradeRequest": ".",
+
+		"neutralDenouncing": ".",
+		"hateDenouncing": ".",
+		
+		"acceptingDemand": ".",
+		"neutralRejectingDemand": ".",
+		"hateRejectingDemand": ".",
+
+		"outerColor": [54, 115, 156],
+		"innerColor": [16, 69, 30],
+		"favoredReligion": "Neo-Monolith",
+		"uniqueName": "Technological Freedom",
+		"uniques": ["Starts with [Computing]",
+			        "[+1 Gold, +1 Science] from every [Aquaculture]",
+			        "[+1 Gold] from every [Offshore Platform]",
+		            "[+1 Food, +1 Production] from every [Aquaculture] <upon discovering [Astronomy] technology>",
+		            "[+1 Production, +1 Gold] from every [Offshore Platform] <upon discovering [Astronomy] technology>"],
+		"cities": [
+			"Archipelagos",
+			"Jakarta",
+			"Surabaya",
+			"Bandung",
+			"Medan",
+			"Bekasi",
+			"Depok",
+			"Tangerang",
+			"Palembang",
+			"Semarang",
+			"Makassar",
+			"Batam",
+			"Pekanbaru",
+			"Bogor",
+			"Bandar Lampung",
+			"Padang",
+			"Malang",
+			"Samarinda",
+			"Tasikmalaya",
+			"Denpasar"
+		],
+		"spyNames": [
+			"Spy1",
+			"Spy2",
+			"Spy3",
+			"Spy4",
+			"Spy5",
+			"Spy6",
+			"Spy7",
+			"Spy8",
+			"Spy9",
+			"Spy10"
+		],
+		"civilopediaText": [
+			{
+				"text": "Title 1",
+				"header": 2,
+				"centered": true
+			},
+			{
+				"text": "Civilopedia Entry 1"
+			},
+			{
+				"separator": true
+			}
+		]
+	}*/
 ]		
